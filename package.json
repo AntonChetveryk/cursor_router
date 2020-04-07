@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://AntonChetveryk.github.io/cursor-react",
+  "homepage": "https://AntonChetveryk.github.io/cursor-router",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
