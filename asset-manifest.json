@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cursor-router/static/css/main.b078d438.chunk.css",
+    "main.js": "/cursor-router/static/js/main.96be05bf.chunk.js",
+    "main.js.map": "/cursor-router/static/js/main.96be05bf.chunk.js.map",
+    "runtime-main.js": "/cursor-router/static/js/runtime-main.838a3448.js",
+    "runtime-main.js.map": "/cursor-router/static/js/runtime-main.838a3448.js.map",
+    "static/css/2.de424728.chunk.css": "/cursor-router/static/css/2.de424728.chunk.css",
+    "static/js/2.1acfc91c.chunk.js": "/cursor-router/static/js/2.1acfc91c.chunk.js",
+    "static/js/2.1acfc91c.chunk.js.map": "/cursor-router/static/js/2.1acfc91c.chunk.js.map",
+    "index.html": "/cursor-router/index.html",
+    "precache-manifest.0a9b264d45f40d2bbe4fca2f56fc6b5b.js": "/cursor-router/precache-manifest.0a9b264d45f40d2bbe4fca2f56fc6b5b.js",
+    "service-worker.js": "/cursor-router/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/cursor-router/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b078d438.chunk.css.map": "/cursor-router/static/css/main.b078d438.chunk.css.map",
+    "static/js/2.1acfc91c.chunk.js.LICENSE.txt": "/cursor-router/static/js/2.1acfc91c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838a3448.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.1acfc91c.chunk.js",
+    "static/css/main.b078d438.chunk.css",
+    "static/js/main.96be05bf.chunk.js"
+  ]
+}
