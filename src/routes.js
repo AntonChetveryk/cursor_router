@@ -8,7 +8,7 @@ import Images from "./components/Pages/Images/Images";
 import Contacts from "./components/Pages/Contacts/Contacts";
 
 export const Routes = () => (
-  <Router>
+  <Router basename="cursor_router">
     <Switch>
       <Layout>
         <Route exact path="/" component={Main} />
